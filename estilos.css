@@ -5,10 +5,10 @@ body {
 }
 
 h1 {
-    color:blue
+    color:blue;
 }
 /* Este es un comentario en CSS */
 P{
     font-size: 18px;
-    color:aqua
+    color:aqua;
 }
