@@ -1,0 +1,14 @@
+body {
+    background-color:azure
+    font-family: Arial, sans-serif;
+    text-allign: center;
+}
+
+h1 {
+    color:blue
+}
+/* Este es un comentario en CSS */
+P{
+    font-size: 18px;
+    color:aqua
+}
